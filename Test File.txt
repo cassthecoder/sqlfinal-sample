@@ -2,3 +2,4 @@ select * from users;
 select first_name from users;
 select * from employees
 where id > 5;
+CREATE TABLE something
